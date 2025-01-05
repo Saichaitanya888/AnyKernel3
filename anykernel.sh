@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Realme GT Neo 2 Phoenix-Prime Kernel with
+kernel.string=Realme GT Neo 2 Phoenix-Reborn Kernel with
  KernelSU RUI-Ready Version
 do.devicecheck=0
 do.modules=0
